@@ -3,6 +3,7 @@ Also learn scripting langauge
 Type Less Langauge
 C can not havbe nested function definition
 
+Sepe ratio n of concern
 Because arr is just a memory location label, using it in any expression immediately becomes that address. There's no "value" to accidentally pass instead.
 
 
